@@ -1,0 +1,2 @@
+# MacGo
+Special For Mac
