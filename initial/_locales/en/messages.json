@@ -1,0 +1,458 @@
+{
+   "chrome_extension_app_name": {
+      "message": "ChangYouWuXian+"
+   },
+   "chrome_extension_description": {
+      "message": "ChangYouWuXian Bring You the World"
+   },
+   "chrome_extension_name": {
+      "message": "ChangYouWuXian Booster"
+   },
+   "chrome_extension_short_name": {
+      "message": "ChangYouWuXian Browser"
+   },
+   "global_direction": {
+      "message": "ltr"
+   },
+   "global_float": {
+      "message": "right"
+   },
+   "global_fontFamily": {
+      "message": "auto"
+   },
+   "global_textAlign": {
+      "message": "left"
+   },
+   "manifest_appDescription": {
+      "message": "Manage and switch between multiple proxies quickly & easily. Based on \"Proxy Switchy!\" & \"SwitchyPlus\""
+   },
+   "manifest_appName": {
+      "message": "ChangYou Switchy"
+   },
+   "manifest_iconTitle": {
+      "message": "[Loading...]"
+   },
+   "message_SwitchRulesDisabled": {
+      "message": "You must enable switch rules and online rule list first!"
+   },
+   "message_apply2All": {
+      "message": "Do you want to apply this profile to all rules? \n\n Selected profile: ($1)"
+   },
+   "message_cannotReadOptionsBackup": {
+      "message": "Oops! Can't read the backup file!"
+   },
+   "message_cannotRestoreOptionsBackup": {
+      "message": "Oops! Can't restore from this backup file!\n\nThe backup file is corrupted or invalid."
+   },
+   "message_cannotSaveFile": {
+      "message": "Oops! Can't save generated file!"
+   },
+   "message_deleteSelectedProfile": {
+      "message": "Are you sure you want to delete selected profile?\n\nSelected Profile: ($1)"
+   },
+   "message_deleteSelectedRule": {
+      "message": "Are you sure you want to delete selected rule?\n\nSelected Rule: ($1)"
+   },
+   "message_errorDownloadingRuleList": {
+      "message": "Error downloading rule list file!"
+   },
+   "message_firstTimeWelcome": {
+      "message": "Welcome first time user!\u003Cbr>\r\nTo start using ChangYouSwitchy set up some proxy profiles below and then press 'Save'."
+   },
+   "message_optionsSaved": {
+      "message": "Options Saved.."
+   },
+   "message_profileDeleted": {
+      "message": "Profile Deleted.."
+   },
+   "message_restoreOptionsBackup": {
+      "message": "Are you sure you want to restore ChangYouSwitchy options from this backup?\n\nCurrent ChangYouSwitchy options will be overwritten."
+   },
+   "message_ruleDeleted": {
+      "message": "Rule Deleted.."
+   },
+   "message_ruleListUpdated": {
+      "message": "Rule list updated successfully."
+   },
+   "message_rulesFirstTimeWelcome": {
+      "message": "This is the first time you use Auto Switch Mode. Here is how to start:\u003Cbr>\r\n\u003Col>\r\n\t\u003Cli>Set up the 'Default Rule' below, this rule will be applied if no other rule is matched.\u003C/li>\r\n\t\u003Cli>Add some rules (press 'New Rule' button), for each rule you should \r\n\t    specify a URL Pattern and a Proxy Profile.\u003C/li>\r\n\t\u003Cli>Press 'Save' and 'Close' to close this tab.\u003C/li>\r\n\u003C/ol>"
+   },
+   "message_saveChangedValues": {
+      "message": "Save changed values?"
+   },
+   "message_saveOptions": {
+      "message": "Do you want to save your options?"
+   },
+   "message_selectBackupFile": {
+      "message": "You should set the backup file path first.."
+   },
+   "message_successRestoreOptionsBackup": {
+      "message": "ChangYouSwitchy options restored successfully."
+   },
+   "options_12Hours": {
+      "message": "12 Hours"
+   },
+   "options_15Minutes": {
+      "message": "15 Minutes"
+   },
+   "options_1Hour": {
+      "message": "1 Hour"
+   },
+   "options_30Minutes": {
+      "message": "30 Minutes"
+   },
+   "options_3Hours": {
+      "message": "3 Hours"
+   },
+   "options_45Minutes": {
+      "message": "45 Minutes"
+   },
+   "options_6Hours": {
+      "message": "6 Hours"
+   },
+   "options_autoConfig": {
+      "message": "Automatic Configuration"
+   },
+   "options_autoConfigUrl": {
+      "message": "Auto Config URL"
+   },
+   "options_autoProxyCompatible": {
+      "message": "AutoProxy Compatible List"
+   },
+   "options_autoProxyCompatible_help": {
+      "message": "Check this option if the url points to an AutoProxy rule list (like 'gfwlist')."
+   },
+   "options_clickToEdit": {
+      "message": "Click to edit"
+   },
+   "options_close": {
+      "message": "Close"
+   },
+   "options_confirmDeletion": {
+      "message": "Confirm profile/rule deletion."
+   },
+   "options_confirmDeletion_help": {
+      "message": "Show a confirmation dialog for deletion of proxy profiles or switch rules."
+   },
+   "options_cycledProfiles": {
+      "message": "Cycled Profiles (drag to sort):"
+   },
+   "options_defaultRule": {
+      "message": "Default Rule"
+   },
+   "options_defaultRuleUrlPattern": {
+      "message": "All URLs that doesn't match any other pattern"
+   },
+   "options_defaultRule_help": {
+      "message": "\u003Cp>This rule will be applied if no other rule is matched.\u003C/p>\r\n\u003Cp>\u003Cb>Note:\u003C/b> This rule can't be deleted.\u003C/p>"
+   },
+   "options_deleteProfile": {
+      "message": "Delete Profile"
+   },
+   "options_deleteRule": {
+      "message": "Delete Rule"
+   },
+   "options_everyday": {
+      "message": "Everyday"
+   },
+   "options_exportPacFile": {
+      "message": "Export PAC File"
+   },
+   "options_exportPacFile_help": {
+      "message": " Export Switch Rules as a PAC file, so you can use it in other browsers. "
+   },
+   "options_exportRuleList": {
+      "message": "Export Rule List"
+   },
+   "options_exportRuleList_help": {
+      "message": " Export Switch Rules as a ChangYouSwitchy Rule List file, so you can share it with friends. "
+   },
+   "options_ftpProxy": {
+      "message": "FTP Proxy"
+   },
+   "options_headerTitle": {
+      "message": "ChangYouSwitchy Options"
+   },
+   "options_httpProxy": {
+      "message": "HTTP Proxy"
+   },
+   "options_httpsProxy": {
+      "message": "HTTPS Proxy"
+   },
+   "options_importPAC": {
+      "message": "Import PAC File"
+   },
+   "options_lastSelectedProfile": {
+      "message": "(Last selected profile)"
+   },
+   "options_lastSuccessfulUpdate": {
+      "message": "Last successful update: "
+   },
+   "options_makeBackup": {
+      "message": "Make Backup"
+   },
+   "options_makeBackup_help": {
+      "message": " Make a full backup of your ChangYouSwitchy options (including proxies, rules and all other options). "
+   },
+   "options_manualConfig": {
+      "message": "Manual Configuration"
+   },
+   "options_miscOptions": {
+      "message": "Misc Options"
+   },
+   "options_monitorProxyChanges": {
+      "message": "Monitor Proxy Changes"
+   },
+   "options_monitorProxyChanges_help": {
+      "message": "When proxy settings changes, ChangYouSwitchy will update its icon to reflect those changes."
+   },
+   "options_moreInfo": {
+      "message": "More Info"
+   },
+   "options_newProfile": {
+      "message": "New Profile"
+   },
+   "options_newRule": {
+      "message": "New Rule"
+   },
+   "options_noProxyFor": {
+      "message": "No Proxy for"
+   },
+   "options_noProxyFor_help": {
+      "message": "Use semicolons ( ; ) to seperate entries."
+   },
+   "options_notCycledProfiles": {
+      "message": "Not cycled Profiles (drag to the above box to enable):"
+   },
+   "options_patternType": {
+      "message": "Pattern Type"
+   },
+   "options_patternTypeRegExp": {
+      "message": "RegExp"
+   },
+   "options_patternTypeWildcard": {
+      "message": "Wildcard"
+   },
+   "options_patternType_help": {
+      "message": "\u003Cp>The type of URL Pattern.\u003C/p>\u003Chr />\r\n\u003Ctable>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd>\u003Ci>Wildcard\u003C/i>\u003C/td>\r\n\t\t\u003Ctd>for Wildcard matching.\u003C/td>\r\n\t\u003C/tr>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd>\u003Ci>RegExp\u003C/i>\u003C/td>\r\n\t\t\u003Ctd>for Regular Expression matching.\u003C/td>\r\n\t\u003C/tr>\r\n\u003C/table>"
+   },
+   "options_profileColor": {
+      "message": "Profile Color"
+   },
+   "options_profileDetails": {
+      "message": "Profile Details"
+   },
+   "options_profileName": {
+      "message": "Profile Name"
+   },
+   "options_proxyPort": {
+      "message": "Port"
+   },
+   "options_proxyProfile": {
+      "message": "Proxy Profile"
+   },
+   "options_proxyProfile_help": {
+      "message": "The proxy profile to be applied when this rule is matched."
+   },
+   "options_proxyProfiles": {
+      "message": "Proxy Profiles"
+   },
+   "options_quickSwitch": {
+      "message": "Quick Switch"
+   },
+   "options_quickSwitch_cycle_help": {
+      "message": "When you click on the icon, ChangYouSwitchy will apply the following profiles in their order."
+   },
+   "options_quickSwitch_help": {
+      "message": "\u003Cp>Allows you to switch among proxy profiles in one click \n(by clicking on ChangYouSwitchy icon).\u003C/p>\u003Chr />\n\u003Cp>\u003Cstrong>Note:\u003C/strong> After enabling this feature you won't be able to see ChangYouSwitchy\nmain menu when clicking on ChangYouSwitchy icon. To open Option page again,\nright-click on the icon and then click \"Options\".\u003C/p>"
+   },
+   "options_reapplyLastProfile_help": {
+      "message": "If this option is checked ChangYouSwitchy will apply last user-selected proxy profile on Chrome startup."
+   },
+   "options_refreshTab": {
+      "message": "Refresh current tab on profile change"
+   },
+   "options_refreshTab_help": {
+      "message": "Refresh the current tab when changing profile via popup menu or quick switch."
+   },
+   "options_reloadEvery": {
+      "message": "Reload Every"
+   },
+   "options_reloadEvery_help": {
+      "message": "Auto reload the Rule List every..."
+   },
+   "options_resetOptions": {
+      "message": "Reset Options"
+   },
+   "options_restoreBackup": {
+      "message": "Restore from Online"
+   },
+   "options_restoreBackup_help": {
+      "message": "Options file URL (e.g. 'http://example.com/switchy.bak')"
+   },
+   "options_restoreLocal": {
+      "message": "Restore from File"
+   },
+   "options_restoreLocal_help": {
+      "message": "Restore your ChangYouSwitchy options from a local file."
+   },
+   "options_revertProxyChanges": {
+      "message": "Revert proxy changes done by other apps."
+   },
+   "options_revertProxyChanges_help": {
+      "message": "Revert any change in proxy settings done by other applications."
+   },
+   "options_ruleList": {
+      "message": "Online Rule List"
+   },
+   "options_ruleListProxyProfile_help": {
+      "message": "The proxy profile to be applied when any rule of this list is matched."
+   },
+   "options_ruleListUrl": {
+      "message": "Rule List URL"
+   },
+   "options_ruleListUrl_help": {
+      "message": "The location of Rule List (you can't use local files)."
+   },
+   "options_ruleList_help": {
+      "message": "Import predefined Switch Rules from online repository."
+   },
+   "options_ruleName": {
+      "message": "Rule Name"
+   },
+   "options_save": {
+      "message": "Save"
+   },
+   "options_socks4": {
+      "message": "SOCKS v4"
+   },
+   "options_socks5": {
+      "message": "SOCKS v5"
+   },
+   "options_socksHost": {
+      "message": "SOCKS Host"
+   },
+   "options_startupProfile": {
+      "message": "Startup Profile:"
+   },
+   "options_startupProfile_help": {
+      "message": "The profile to be applied on extension startup."
+   },
+   "options_switchRules": {
+      "message": "Switch Rules"
+   },
+   "options_switchRulesEnable": {
+      "message": "Enable Switch Rules"
+   },
+   "options_switchRulesEnable_help": {
+      "message": "\u003Cp>Switch Rules specify which proxy should be used for each URL.\u003C/p>\u003Chr />\r\n\u003Cp>When this option is enabled you'll see two more items in main menu:\u003C/p>\r\n\u003Ctable>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd>\u003Ci>Auto Switch Mode\u003C/i>\u003C/td>\r\n\t\t\u003Ctd>clicking this item will activate Switch Rules.\u003C/td>\r\n\t\u003C/tr>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd>\u003Ci>New Rule\u003C/i>\u003C/td>\r\n\t\t\u003Ctd>quickly add a new Switch Rule for the current website.\u003C/td>\r\n\t\u003C/tr>\r\n\u003C/table>"
+   },
+   "options_tabGeneral": {
+      "message": "General"
+   },
+   "options_tabImportExport": {
+      "message": "Import/Export"
+   },
+   "options_tabNetwork": {
+      "message": "Network"
+   },
+   "options_tabProxyProfiles": {
+      "message": "Proxy Profiles"
+   },
+   "options_tabSwitchRules": {
+      "message": "Switch Rules"
+   },
+   "options_untitledProfile": {
+      "message": "[Untitled Profile]"
+   },
+   "options_updateListNow": {
+      "message": "Update List Now"
+   },
+   "options_urlPattern": {
+      "message": "URL Pattern"
+   },
+   "options_urlPattern_help": {
+      "message": "\u003Cp>Pattern of the page url.\u003C/p>\u003Chr />\r\n\u003Ctable>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd colspan='2'>\u003Cb>Wildcard Reference\u003C/b>\u003C/td>\r\n\t\u003C/tr>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd>\u003Ci>The asterisk (*) \u003C/i>\u003C/td>\r\n\t\t\u003Ctd>matches zero or more characters.\u003C/td>\r\n\t\u003C/tr>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd>\u003Ci>The question mark (?) \u003C/i>\u003C/td>\r\n\t\t\u003Ctd>matches exactly one character.\u003C/td>\r\n\t\u003C/tr>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd colspan='2'>\u003Cbr />\u003Cb>Examples\u003C/b>\u003C/td>\r\n\t\u003C/tr>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd>\u003Ci>*://www.google.com/* \u003C/i>\u003C/td>\r\n\t\t\u003Ctd>Matches any URL that is on 'www.google.com' host and \r\n\t\tuses any scheme (http, https ...).\u003C/td>\r\n\t\u003C/tr>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd>\u003Ci>https://*.google.com/foo*bar \u003C/i>\u003C/td>\r\n\t\t\u003Ctd>Matches any URL that is on a 'google.com' host and\r\n\t\tuses the https scheme (such as 'www.google.com', \r\n\t\t'docs.google.com', or 'google.com'), as long as the path \r\n\t\tstarts with '/foo' and ends with 'bar'.\u003C/td>\r\n\t\u003C/tr>\r\n\t\u003Ctr>\r\n\t\t\u003Ctd>\u003Ci>http://example.org/foo/bar.html \u003C/i>\u003C/td>\r\n\t\t\u003Ctd>Matches exactly the specified URL.\u003C/td>\r\n\t\u003C/tr>\r\n\u003C/table>"
+   },
+   "options_useSameProxy": {
+      "message": "Use the same proxy server for all protocols"
+   },
+   "options_vpnDialupProxy": {
+      "message": "Proxy for VPN/Dial-up"
+   },
+   "popup_aboutSwitchy": {
+      "message": "About ChangYouSwitchy"
+   },
+   "popup_add": {
+      "message": "Add"
+   },
+   "popup_autoSwitchMode": {
+      "message": "Auto Switch Mode"
+   },
+   "popup_autoSwitchMode_help": {
+      "message": "Automatically Switch."
+   },
+   "popup_basedOn": {
+      "message": "Based on the work of"
+   },
+   "popup_cancel": {
+      "message": "Cancel"
+   },
+   "popup_copyright": {
+      "message": "Copyright &copy; 2014 @Shyc2001 & @ChangYouWuXian\u003Cbr />Rights reserved."
+   },
+   "popup_developedBy": {
+      "message": "Thnaks for"
+   },
+   "popup_duplicateRules": {
+      "message": "* There is already a rule for this URL Pattern."
+   },
+   "popup_enhancedBy": {
+      "message": "ChangYouWuXian"
+   },
+   "popup_newRule": {
+      "message": "New Rule"
+   },
+   "popup_newRule_help": {
+      "message": "Quickly add a new Switch Rule \nfor the current website."
+   },
+   "popup_newTempRule2_help": {
+      "message": "The profile to be applied temporarily for the current domain."
+   },
+   "popup_newTempRule_help": {
+      "message": "Add a temporary rule for the current domain."
+   },
+   "popup_options": {
+      "message": "Options"
+   },
+   "popup_or": {
+      "message": "or"
+   },
+   "popup_switchyPlusWebPage": {
+      "message": "ChangYouWuXian Browser,Show You The World"
+   },
+   "popup_switchyWebPage": {
+      "message": "Safe,Fast,Learning!"
+   },
+   "popup_version": {
+      "message": "version"
+   },
+   "proxy_autoSwitch": {
+      "message": "Auto Switch"
+   },
+   "proxy_autoSwitchIconTitle": {
+      "message": "Auto Switch Mode\nActive Page Proxy: $1"
+   },
+   "proxy_directConnection": {
+      "message": "Direct Connection"
+   },
+   "proxy_directConnection_help": {
+      "message": "Local Connection"
+   },
+   "proxy_systemProxy": {
+      "message": "About System"
+   },
+   "proxy_systemProxy_help": {
+      "message": "About"
+   }
+}

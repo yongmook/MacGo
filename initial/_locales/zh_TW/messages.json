@@ -1,0 +1,14 @@
+{
+   "chrome_extension_app_name": {
+      "message": "暢遊無限+"
+   },
+   "chrome_extension_description": {
+      "message": "暢遊無限瀏覽器，學習知識沒有距離！請遵守所在國家和地區的法律法規，具體傳播者、使用者的一切意向，言行，用途和由此造成的任何結果，由該傳播者和使用者自行負責。"
+   },
+   "chrome_extension_name": {
+      "message": "暢遊無限啟動器"
+   },
+   "chrome_extension_short_name": {
+      "message": "暢遊無限瀏覽器"
+   }
+}

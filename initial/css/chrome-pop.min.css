@@ -1,0 +1,668 @@
+body
+{
+    background: #f6f6f6;
+}
+
+body a{
+ cursor:pointer;
+}
+
+.install
+{
+    width: 800px;
+    margin: 0 auto;
+}
+.headerInstall
+{
+    background: #444;
+    height: 60px;
+    line-height: 60px;
+}
+.headerInstall .logo
+{
+    margin-top: 10px;
+}
+.nav li
+{
+    float: left;
+    margin-left: 40px;
+}
+.nav a
+{
+    font-size: 1.8em;
+    color: #b3b3b3;
+    display: block;
+    float: left;
+    padding: 0 15px;
+}
+.nav a:hover
+{
+    color: #fff;
+    background: #333;
+}
+.install h2
+{
+    color: #333;
+    font-size: 2em;
+    padding: 30px 0 10px 0;
+    clear: both;
+}
+.basicInstall li
+{
+    float: left;
+}
+.install .tit
+{
+    font-size: 1.6em;
+    color: #666;
+}
+.basicInstall p
+{
+    margin: 10px 0;
+}
+.basicInstall ul
+{
+    float: left;
+    border-radius: 3px;
+    border: 1px solid #d3d2d2;
+    border-right: 0;
+}
+.basicInstall li
+{
+    background: #ecebeb;
+    height: 30px;
+    line-height: 30px;
+    padding: 0 15px;
+    color: #666;
+    font-size: 1.4em;
+    border-right: 1px solid #d3d2d2;
+    cursor: pointer;
+}
+.basicInstall .curr
+{
+    background: #83c215;
+    color: #fff;
+}
+.basicInstall a
+{
+    display: block;
+    float: left;
+    height: 30px;
+    line-height: 30px;
+    color: #fff;
+    background: #fa9d1a;
+    border: 1px solid #e48806;
+    border-radius: 3px;
+    margin-left: 20px;
+    padding: 0 15px;
+    font-size: 1.4em;
+}
+.basicInstall select
+{
+    float: left;
+    height: 25px;
+    line-height: 25px;
+    margin: 5px 10px;
+}
+.orRemind
+{
+    float: left;
+}
+.stopTime
+{
+    float: left;
+    margin-left: 20px;
+}
+.orSound
+{
+    float: left;
+    margin-left: 20px;
+}
+.orFaze
+{
+    float: left;
+}
+.basicInstall i
+{
+    display: block;
+    float: left;
+}
+.orRemind a i
+{
+    height: 10px;
+    width: 10px;
+    margin: 9px 10px 0 0;
+    background-position: -4px -4px;
+}
+.orSound a i
+{
+    height: 10px;
+    width: 12px;
+    margin: 9px 10px 0 0;
+    background-position: -29px -4px;
+}
+.sortInstall dl
+{
+    position: relative;
+    float: left;
+    width: 146px;
+    height: 76px;
+    border: 2px solid #e1e1e1;
+    padding: 5px;
+    margin: 10px 20px 10px 0;
+    cursor: pointer;
+}
+.sortInstall .curr
+{
+    border: 2px solid #83c215;
+}
+.sortInstall .cur_on
+{
+    border: 2px solid #83c215;
+}
+.sortInstall dt
+{
+    float: left;
+    width: 40px;
+    min-height: 56px;
+}
+.sortInstall dd
+{
+    float: left;
+    width: 106px;
+    padding-top: 10px;
+}
+.sortInstall .sortTit
+{
+    color: #83c215;
+    font-size: 1.6em;
+    font-weight: bold;
+}
+.sortInstall .info
+{
+    line-height: 18px;
+    color: #666;
+    font-size: 1.2em;
+}
+.sortInstall dt i
+{
+    display: block;
+    margin: 30px 0 0 5px;
+}
+.IT dt i
+{
+    width: 27px;
+    height: 23px;
+    background-position: -4px -18px;
+}
+.sport dt i
+{
+    width: 28px;
+    height: 23px;
+    background-position: -35px -18px;
+}
+.dress dt i
+{
+    width: 20px;
+    height: 23px;
+    background-position: -68px -18px;
+}
+.beauty dt i
+{
+    width: 8px;
+    height: 23px;
+    background-position: -97px -18px;
+}
+.home dt i
+{
+    width: 28px;
+    height: 23px;
+    background-position: -112px -18px;
+}
+.toy dt i
+{
+    width: 14px;
+    height: 23px;
+    background-position: -142px -18px;
+}
+.domestic dt i
+{
+    width: 15px;
+    height: 23px;
+    background-position: -384px -18px;
+}
+.haitao dt i
+{
+    width: 22px;
+    height: 23px;
+    background-position: -162px -18px;
+}
+.other dt i
+{
+    width: 23px;
+    height: 23px;
+    background-position: -188px -18px;
+}
+.book dt i
+ {
+    width: 16px;
+    height: 23px;
+    background-position: -267px -18px;
+}
+.gift dt i
+{
+    width: 21px;
+    height: 23px;
+    background-position: -294px -18px;
+}
+.Jewelry dt i
+ {
+    width: 21px;
+    height: 23px;
+    background-position: -355px -18px;
+}
+.foot dt i
+ {
+    width: 22px;
+    height: 23px;
+    background-position: -325px -18px;
+}
+.sortInstall .icon
+{
+    bottom: 0;
+    right: 0;
+    width: 18px;
+    height: 18px;
+    background-position: -217px -18px;
+}
+.curr .icon, .cur_on .icon
+{
+    background-position: -242px -18px;
+}
+.otherInstall .wx
+{
+    float: left;
+    background: url(../image/icon-1.png) no-repeat right top;
+    width: 200px;
+    height: 200px;
+}
+.otherInstall .wx p
+{
+    padding-top: 10px;
+}
+.otherInstall .wx img
+{
+    border: 1px solid #ddd;
+}
+.otherInstall .wb
+{
+    float: left;
+    margin-left: 80px;
+    background: url(../image/icon-1.png) no-repeat right top;
+    width: 220px;
+    height: 220px;
+}
+.otherInstall .wb p
+{
+    margin-top: 10px;
+    color: #888;
+}
+.otherInstall .wb p a {
+    margin-bottom: 5px;
+    display: block;
+}
+.otherInstall .wb .tit
+{
+    padding-bottom: 20px;
+}
+.otherInstall .wb .con
+{
+    font-size: 1.4em;
+}
+.otherInstall .sina
+{
+    width: 128px;
+    height: 22px;
+    line-height: 22px;
+    background: url(../image/sina.jpg) no-repeat center center;
+    cursor: pointer;
+}
+.otherInstall .sina span
+{
+    color: #1582bd;
+    font-size: 1.2em;
+    padding-left: 80px;
+}
+.otherInstall .tencent
+{
+    width: 128px;
+    height: 24px;
+    line-height: 24px;
+    background: url(../image/tencent.jpg) no-repeat center center;
+    cursor: pointer;
+}
+.otherInstall .tencent span
+{
+    color: #f90;
+    font-size: 1.2em;
+    padding-left: 80px;
+}
+.pop
+{
+    width: 440px;
+    margin: 0 auto;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background: #fff;
+}
+.pop .header
+{
+	background: #22beef;
+	height: 60px;
+	line-height: 60px;
+	border-radius: 5px 5px 0 0;
+}
+.pop .header .logo img
+{
+	margin: 5px 9px 7px -5px;
+}
+.pop .header .link a
+{
+    display: block;
+    padding: 0px 8px 0px 14px;
+    color: #fff;
+    font-size: 1.4em;
+    float: left;
+}
+.pop .header .link a:hover, .pop .header .curr
+{
+    background: #fc0;
+}
+.tips
+{
+    color: #999;
+    font-size: 1.4em;
+    padding: 10px;
+}
+.tips .gg
+{
+    height: 25px;
+    line-height: 25px;
+}
+.tips .gg b
+{
+    color: #fa9d1a;
+    font-size: 1.8em;
+    font-family: "Arial";
+}
+.tips .gg i
+{
+    width: 17px;
+    height: 15px;
+    margin-right: 5px;
+    display: inline-block;
+    background-position: -53px -1px;
+}
+.tips .operation i
+{
+    display: inline-block;
+    cursor: pointer;
+}
+.tips .operation .del
+{
+    width: 14px;
+    height: 19px;
+    margin: 0 5px;
+    background-position: -4px -45px;
+}
+.tips .operation .install
+{
+    width: 20px;
+    height: 21px;
+    margin: 0 5px;
+    background-position: -29px -45px;
+}
+.popList
+{
+    clear: both;
+    padding-bottom: 10px;
+    margin: 0 10px;
+    height:450px;
+    overflow-y:scroll;
+}
+.popList dl
+{
+    border-bottom: 1px dashed #ddd;
+    padding-top: 10px;
+}
+.popList dt
+{
+    float: left;
+    width: 90px;
+    height: 90px;
+    display: table;
+}
+.popList dt a
+{
+    width: 90px;
+    height: 90px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+.popList dd
+{
+    float: left;
+    width: 313px;
+    margin-bottom: 10px;
+}
+.popList .tit
+{
+    height: 40px;
+    line-height: 20px;
+    width: 313px;
+    overflow: hidden;
+}
+.popList .tit a
+{
+    color: #666;
+    font-weight: bold;
+    font-size: 1.4em;
+    line-height: 20px;
+}
+.popList .tit i
+{
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    background-position: -59px -45px;
+}
+.popList .time
+{
+    color: #999;
+    font-size: 1.2em;
+    font-family: "Arail";
+}
+.popList .btn a
+{
+    display: block;
+    float: left;
+    color: #fff;
+    font-size: 1.2em;
+    font-family: "宋体";
+    padding: 3px 8px;
+    border-radius: 2px;
+    margin-right: 17px;
+}
+.popList .btn i
+{
+    display: inline-block;
+    margin: 0 5px;
+}
+.popList .btn em
+{
+    display: inline-block;
+}
+.popList .btn .detail
+{
+    background: #fa9d1a;
+}
+.popList .btn .detail i
+{
+    width: 11px;
+    height: 11px;
+    background-position: -94px -45px;
+}
+.popList .btn .links
+{
+    background: #83c215;
+}
+.popList .btn .links i
+{
+    width: 12px;
+    height: 12px;
+    background-position: -113px -45px;
+}
+.popList .btn .collection
+{
+    background: #949494;
+}
+.popList .btn .collection i
+{
+    width: 12px;
+    height: 12px;
+    background-position: -131px -45px;
+}
+.popList .btn .collectionDel
+{
+    background: #949494;
+}
+.popList .btn .collectionDel i
+{
+    width: 12px;
+    height: 12px;
+    background-position: -131px -45px;
+}
+.bottom
+{
+    height: 42px;
+    line-height: 42px;
+    background: #f0f0f0;
+    cursor: pointer;
+}
+.bottom a 
+{   
+    color:#333;
+    }
+.bottom i
+{
+    display: block;
+    width: 14px;
+    height: 18px;
+    background-position: -149px -45px;
+    float: left;
+    margin: 15px 10px 0 120px;
+}
+.bottom span
+{
+    display: block;
+    float: left;
+    font-size: 1.2em;
+}
+.popDetail
+{
+    width: 340px;
+    margin: 0 auto;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    background: #fff;
+}
+.popDetail dl
+{
+    padding: 10px;
+}
+.popDetail dt
+{
+    width: 80px;
+    height: 80px;
+    border: 1px solid #ddd;
+    display: table;
+    float: left;
+}
+.popDetail dt a
+{
+    width: 80px;
+    height: 80px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+.popDetail dd
+{
+    float: left;
+    width: 230px;
+    margin-left: 8px;
+    padding: 2px 0;
+}
+.popDetail .tit
+{
+    font-size: 1.6em;
+    line-height: 22px;
+    height: 66px;
+    overflow: hidden;
+}
+.popDetail .tit a
+{
+    color: #333;
+}
+.popDetail .btn a
+{
+    display: block;
+    float: left;
+    color: #fff;
+    font-size: 1.2em;
+    font-family: "宋体";
+    padding: 3px 8px;
+    border-radius: 2px;
+    margin-right: 20px;
+}
+.popDetail .btn i
+{
+    display: inline-block;
+    margin: 0 5px;
+}
+.popDetail .btn em
+{
+    display: inline-block;
+}
+.popDetail .btn .detail
+{
+    background: #44a9c7;
+}
+.popDetail .btn .detail i
+{
+    width: 11px;
+    height: 11px;
+    background-position: -94px -45px;
+}
+.popDetail .btn .links
+{
+    background: #fa9d1a;
+}
+.popDetail .btn .links i
+{
+    width: 12px;
+    height: 12px;
+    background-position: -113px -45px;
+}
+.popDetail .close
+{
+    top: 2px;
+    right: 5px;
+    font-size: 1.4em;
+    cursor: pointer;
+}
+.basicInstall i, .sortInstall i, .pop i, .bottom i, .popDetail i
+{
+    background-image: url(../image/icon.png);
+}

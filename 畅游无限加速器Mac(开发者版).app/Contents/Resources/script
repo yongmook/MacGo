@@ -1,0 +1,4 @@
+killall python
+cd ../../../MacGo
+python proxy.py&
+/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome&

@@ -1,0 +1,33 @@
+{
+   "background": {
+      "page": "views/background.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": "image/icon_128.png",
+      "default_popup": "views/pop.html",
+      "default_title": "畅游无限浏览器",
+      "homepage_url": "http://www.isaibo.com"
+   },
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+   "content_scripts": [ {
+      "js": [ "script/jquery.js", "script/changyou.js", "script/back.js" ],
+      "matches": [ "http://*/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "zh_CN",
+   "description": "__MSG_chrome_extension_description__",
+   "icons": {
+      "128": "image/icon_128.png",
+	  "48": "image/icon_48.png",
+      "16": "image/icon_16.png"
+   },
+   "manifest_version": 2,
+   "name": "__MSG_chrome_extension_name__",
+   "options_page": "options.html",
+   "permissions": [ "proxy", "tabs", "\u003Call_urls>", "http://*/*", "https://*/*", "ftp://*/*", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.5"
+}

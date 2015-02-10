@@ -1,0 +1,85 @@
+/**
+    * 重置浏览器和一些全局样式
+    *
+    * 方便多浏览器显示差异，重定义一些标签样式
+    *
+    * @tags base.css 
+    *
+    * @project all project
+    *
+    * @author ken
+    *
+    * @copyright  http://www.yifen.com
+**/
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, pre, a, em, img, strong, sub, sup, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: none;
+    font-size: 100%;
+    font-family: Arial, "微软雅黑";
+}
+/* HTML5 */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+    font-size: .625em; /* 10/16 */
+}
+ol, ul {
+    list-style: none;
+}
+em, i {
+    font-style: normal;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+a:focus {
+    outline: 0;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+/**
+    * 全局样式
+    *
+    * 一些常用的样式单独定义，一次定义多次使用。
+    *
+**/
+.clear {
+    clear: both;
+    overflow: hidden;
+    height: 1px;
+}
+.clearfix:after {
+    clear: both;
+    content: ".";
+    display: block;
+    font-size: 0;
+    height: 0;
+    line-height: 0;
+    visibility: hidden;
+}
+.abs {
+    position: absolute;
+}
+.rel {
+    position: relative;
+}
+.l {
+    float: left;
+}
+.s {
+	float: left;
+	padding:0px 18px 0px 0px;
+
+}
+.r {
+    float: right;
+}
