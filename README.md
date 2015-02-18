@@ -5,12 +5,7 @@
 <p>
     <span style="font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;">联系我&nbsp;<a href="http://yongmookhim@gmail.com" target="_blank">yongmookhim@gmail.com</a></span>
 </p>
-<p>
-    <br/>
-</p>
-<p>
-    <br/>
-</p>
+
 <p>
     <span style="font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;">如要使用Windoows版本，请去畅游无限浏览器官方，</span>
 </p>
@@ -22,13 +17,4 @@
 </p>
 <p>
     <span style="font-family: 微软雅黑, &#39;Microsoft YaHei&#39;;">微信：ChangYouV</span>
-</p>
-<p>
-    <br/>
-</p>
-<p>
-    <br/>
-</p>
-<p>
-    <br/>
 </p>
