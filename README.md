@@ -1,6 +1,6 @@
 # 畅游无限加速器Mac（开发者版）
 <p>
-    <span><strong>百度网盘: <a href="http://pan.baidu.com/s/1eS0QsVK" target="_blank">http://pan.baidu.com/s/1eS0QsVK</a> 密码: 5zp7</strong></span>
+    <span><strong>百度网盘: <a href="http://pan.baidu.com/s/1qYnGQ4G" target="_blank">http://pan.baidu.com/s/1qYnGQ4G</a> 密码: u3rq</strong></span>
     <span><strong>百度网盘: <a href="http://pan.baidu.com/s/1bnq7DBT" target="_blank">http://pan.baidu.com/s/1bnq7DBT</a> 密码: vl0h</strong></span>
 </p>
 <p>
