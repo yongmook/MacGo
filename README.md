@@ -1,6 +1,6 @@
-#畅游无限加速器Mac（开发者版）畅游无限浏览器（开发者版）
+#畅游无限加速器Mac（开发者版）畅游无限浏览器（开发者版）更新下载
 <p>
-    <span><strong>畅游无限浏览器（开发者版）-百度网盘: <a href="http://pan.baidu.com/s/1o8LFqK6" target="_blank">http://pan.baidu.com/s/1o8LFqK6</a> 密码: khqe</strong></span>
+    <span><strong>畅游无限浏览器（开发者版）-百度网盘: <a href="http://pan.baidu.com/s/1mifh8CS" target="_blank">http://pan.baidu.com/s/1mifh8CS</a> 密码: pwvk</strong></span>
     <br />
     <span><strong>畅游无限加速器Mac（开发者版）-百度网盘: <a href="http://pan.baidu.com/s/1bnq7DBT" target="_blank">http://pan.baidu.com/s/1bnq7DBT</a> 密码: vl0h</strong></span>
 </p>
