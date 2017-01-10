@@ -21,7 +21,7 @@
     <span>微博：<a href="http://weibo.com/changyouwuxian" target="_blank" title="http://weibo.com/changyouwuxian">http://weibo.com/changyouwuxian</a></span>
 </p>
 <p>
-    <span>微信：ChangYouV</span>
+    <span style="color:red;">微信：ChangYouV</span>
 </p>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
