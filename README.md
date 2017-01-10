@@ -1,6 +1,6 @@
 #畅游无限加速器Mac（开发者版）畅游无限浏览器（开发者版）更新下载
 <p>
-    <span><strong>畅游无限浏览器（开发者版）-MEGA网盘: <a href="https://mega.nz/#!Gh0mXIhb!75IioBmcpoHg4Q5twhhSY7EoDIjygnOFqTAoWfI791A" target="_blank" title="畅游无限浏览器（开发者版）-MEGA网盘">2017下载地址</a> MEGA网盘</strong></span>
+    <span><strong>畅游无限浏览器（开发者版）-MEGA网盘: <a href="https://mega.nz/#!Gh0mXIhb!75IioBmcpoHg4Q5twhhSY7EoDIjygnOFqTAoWfI791A" target="_blank" title="畅游无限浏览器（开发者版）-MEGA网盘">2017下载地址</a>MEGA网盘</strong></span>
     <br />
     <span><strong>畅游无限加速器Mac（开发者版）-百度网盘: <a href="http://pan.baidu.com/s/1bnq7DBT" target="_blank" title="畅游无限加速器Mac（开发者版）-百度网盘">http://pan.baidu.com/s/1bnq7DBT</a> 密码: vl0h</strong></span>
 </p>
